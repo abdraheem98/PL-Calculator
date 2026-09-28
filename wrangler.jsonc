@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.schemastore.org/wrangler.json",
-  "name": "PL-Calculator",
+  "name": "PLCalculator",
   "compatibility_date": "2026-09-28",
   "assets": {
     "directory": "."
